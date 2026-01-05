@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "Start 2026",
+  "homepage": "https://github.com/Souptikbej/INTRO-TO-BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/Souptikbej/INTRO-TO-BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souptikbej/INTRO-TO-BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "Souptik",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
